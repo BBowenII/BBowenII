@@ -1,11 +1,6 @@
 <h1>Hi, I'm Barrington. <a href="https://www.linkedin.com/in/barrington-bowen-ii/">Cybersecurity & Cloud Professional</a>
 
-<h2>👨‍💻 Cyber-Security Projects:</h2>
-
-  - [Secure Network Design Project](https://github.com/joshmadakor1/Algorithms-Practice)
-  - [Strategic Governance & Risk Master's Program Project](https://github.com/joshmadakor1/Algorithms-Practice)
-
-<h2>📺 Cloud Security Projects </h2>
+<h2>👨‍💻 Cloud Secure Network Design Projects:</h2>
 
 - [P1. Creating A Highly Available Multi-subnet Virtual Private Cloud Demonstration](https://www.dropbox.com/s/559tve7zqwe478c/1.%20Project%201.mp4?dl=0)
 - [P2. NACLs and Security Groups For Public Facing Subnet Demonstration](https://www.dropbox.com/s/wyw8dj67j2l298m/2.%20Project%202.mp4?dl=0)
