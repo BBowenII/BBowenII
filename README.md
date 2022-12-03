@@ -1,4 +1,4 @@
-<h1>Hi, I'm Barrington. <a href="https://www.linkedin.com/in/barrington-bowen-ii/">Cybersecurity & Cloud Professional</a>
+<h1>Hi, I'm Barrington - <a href="https://www.linkedin.com/in/barrington-bowen-ii/">Cybersecurity & Cloud Professional</a>.
 
 <h2>👨‍💻 Cloud Secure Network Design Projects:</h2>
 
